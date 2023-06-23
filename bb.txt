@@ -1,0 +1,55 @@
+insert
+Duong
+23
+32
+167
+09/01/2002
+60
+red
+54
+24
+44
+insert
+Nam Phuong
+54
+43
+159
+30/04/2001
+50
+red
+75
+21
+35
+insert
+Trung Kien
+66
+36
+155
+16/03/2002
+65
+black
+75
+63
+25
+insert
+Hoang Hiep
+76
+35
+172
+25/09/2000
+60
+black
+54
+66
+37
+insert
+Hien Luong
+11
+33
+155
+15/09/1977
+52
+black
+68
+92
+34
